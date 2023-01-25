@@ -983,7 +983,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "RIP\nMICA THE\nMAGICAL \nLONG BOARD CAT\n\n1/20/23 \n-\n1/25/23"
+  m_text: "RIP\nMILO THE\nMAGICAL \nLONG BOARD CAT\n\n1/20/23 \n-\n1/25/23"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 62be1a1d47ee86b4f946d831cee17957, type: 2}
   m_sharedMaterial: {fileID: 2357046637608401745, guid: 62be1a1d47ee86b4f946d831cee17957, type: 2}
